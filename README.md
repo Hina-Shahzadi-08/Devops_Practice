@@ -1,1 +1,3 @@
-# Devops_Practice
+# Steps to execute
+Push / Pull Git Hub 
+Branching 
